@@ -1,0 +1,86 @@
+*{
+    font-family: "Fugaz One", sans-serif;
+}
+header{
+    background-color: #7f0686;
+}
+header a{
+    color: #eaa2aa;
+}
+.nav-item a{
+    color: #eaa2aa;
+}
+#boton-perfil{
+    background-color: #fc389d;
+}
+.nav-item a:hover{
+    color: #efb8e4;
+}
+#app{
+    color: #fc389d;
+}
+.boton-cv{
+    background-color: #efb8e4;
+    color:#7f0686;
+    border-color: #7f0686;
+}
+.boton-cv:hover{
+    background-color: #7f0686;
+}
+.caja-habilidades{
+    background-color: #eaa2aa52;
+    color: #7f0686;
+}
+.btn-proyecto{
+    background-color:#7f0686;
+    border-color: #ffffff;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color:#fc389d;
+}
+.btn-proyecto:hover{
+    background-color:#efb8e4;
+}
+.uso{
+    color: #8cee10;
+}
+.card-title{
+    color: #fc389d;
+}
+.card-subtitle{
+    color:#8cee10;
+}
+#contacto{
+    background-color: #efb8e4;
+    color: #310034;
+}
+.clic{
+    background-color:#310034;
+    color:#eaa2aa;
+}
+.clic:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+footer i{
+    color:#fc389d;
+}
+footer p{
+    color:#7f0686 ;
+}
+
+.sticky-header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+.carousel .card-img-top {
+    width: 150px;
+    margin:  auto;
+}
+.card-text{
+    text-align: justify;
+}
